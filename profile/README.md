@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💻 Cyber Underground is an friendly Ethical Hacking community for both beginners and professionals white hat hackers, programmers, share your work, learn new things everyday! meet other members with the same interests as you! - Friendly Staff and helpful members, ask your questions here as well!
+💻 Cyber Underground is an friendly Ethical Hacking community for both beginners and professionals white hat hackers, programmers, share your work, learn new things everyday! meet other members with the same interests as you! Get involved today by joining our Discord. 
 
 🎭 Fun facts:
 Cyber Underground was created 2017
@@ -16,14 +16,3 @@ Website: https://cug.lol
     </h1>
 </p>
 
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
