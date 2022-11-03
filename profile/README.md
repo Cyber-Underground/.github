@@ -14,8 +14,8 @@ Discord: https://discord.gg/8rYq9TyZdp
 Website: https://cug.lol
 
 ### 🤝Partners
-<a href="[ ](https://go.nordvpn.net/SH4an)" >NordVPN </a>
-ByBit
+[NordVPN](https://go.nordvpn.net/SH4an)
+[ByBit](https://partner.bybit.com/b/CUG )
 
 <p> 
   <h1 align="center">Visitor count since 2022<br>
