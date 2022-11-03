@@ -4,8 +4,8 @@
 Cyber Underground is an friendly Ethical Hacking community for both beginners and professionals white hat hackers, programmers, share your work, learn new things everyday! Meet other members with the same interests as you and build awesome projects together! Get involved today by joining our Discord. 
 
 ### 😎 Statistics:
-+300 active members
-+1250 members
+* +300 active members
+* +1250 members
 
 ### 🎭 Fun facts:
 * Cyber Underground was created 2017
