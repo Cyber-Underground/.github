@@ -1,11 +1,12 @@
 # Hi there 👋
 
 ### 💻 About:
-Cyber Underground is an friendly Ethical Hacking community for both beginners and professionals white hat hackers, programmers, share your work, learn new things everyday! Meet other members with the same interests as you and build awesome projects together! Get involved today by joining our Discord. 
+The Cyber Underground is an friendly community for both beginner and professional white hat hackers, programmers, Cyber Security enthusiasts and massive computer nerds! CUG is an awesome place to share your work and learn new things everyday! Meet other members with the same interests as you and build awesome projects together! Get involved today by joining our Discord.
 
-### 😎 Statistics:
-* +300 active members
-* +1250 members
+### 😎 Stats:
+* +1250 magnificent members
+
+* +12 interesting channels
 
 ### 🎭 Fun facts:
 * Cyber Underground was created 2017
@@ -17,7 +18,7 @@ Discord: https://discord.gg/8rYq9TyZdp
 
 Website: https://cug.lol
 
-### 🤝Partners
+### 🤝 Awesome Partners
 [NordVPN](https://go.nordvpn.net/SH4an)
 
 [ByBit](https://partner.bybit.com/b/CUG )
