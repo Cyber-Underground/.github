@@ -15,6 +15,7 @@ Website: https://cug.lol
 
 ### 🤝Partners
 [NordVPN](https://go.nordvpn.net/SH4an)
+
 [ByBit](https://partner.bybit.com/b/CUG )
 
 <p> 
