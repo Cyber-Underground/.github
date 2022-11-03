@@ -1,6 +1,7 @@
 # Hi there 👋
 
-💻 Cyber Underground is an friendly Ethical Hacking community for both beginners and professionals white hat hackers, programmers, share your work, learn new things everyday! meet other members with the same interests as you! Get involved today by joining our Discord. 
+### 💻 About:
+Cyber Underground is an friendly Ethical Hacking community for both beginners and professionals white hat hackers, programmers, share your work, learn new things everyday! meet other members with the same interests as you! Get involved today by joining our Discord. 
 
 ### 🎭 Fun facts:
 Cyber Underground was created 2017
