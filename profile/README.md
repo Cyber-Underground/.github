@@ -4,14 +4,14 @@
 The Cyber Underground is an friendly community for both beginner and professional white hat hackers, programmers, Cyber Security enthusiasts and massive computer nerds! CUG is an awesome place to share your work and learn new things everyday! Meet other members with the same interests as you and build awesome projects together! Get involved today by joining our Discord.
 
 ### 😎 Stats:
-* +2000 magnificent members
+* +2100 magnificent members
 
-* +12 interesting channels
+* +25 interesting channels
 
 ### 🎭 Fun facts:
-* Cyber Underground was created 2017
+* Cyber Underground was founded 2017
 
-* Cyber Underground used to be an game hacking forum back in the day
+* Cyber Underground used to be an game hacking forum back in the day, now we focuse on cyber security and programming
 
 ### 👥 Links
 Discord: https://discord.gg/8rYq9TyZdp
