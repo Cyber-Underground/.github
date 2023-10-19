@@ -4,7 +4,7 @@
 The Cyber Underground is an friendly community for both beginner and professional white hat hackers, programmers, Cyber Security enthusiasts and massive computer nerds! CUG is an awesome place to share your work and learn new things everyday! Meet other members with the same interests as you and build awesome projects together! Get involved today by joining our Discord.
 
 ### 😎 Stats:
-* +2500 magnificent members
+* +3000 magnificent members
 
 * +25 interesting channels
 
