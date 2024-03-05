@@ -14,9 +14,9 @@ The Cyber Underground is an friendly community for both beginner and professiona
 * Cyber Underground used to be an game hacking forum back in the day, now we focuse on cyber security and programming
 
 ### 👥 Links
-Discord: https://discord.gg/cyber-underground-900619671072567326
-Telegram: https://t.me/Cryptiques
-Website: https://cug.lol
+* Discord: https://discord.gg/cyber-underground-900619671072567326
+* Telegram: https://t.me/Cryptiques
+* Website: https://cug.lol
 
 ### 🤝 Awesome Partners
 [NordVPN](https://go.nordvpn.net/SH4an)
